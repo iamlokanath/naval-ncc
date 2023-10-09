@@ -35,19 +35,16 @@ const Footer = () => {
                 <li><a href="/about">About Us</a></li>
                 <li><a href="/activities">Activities</a></li>
                 <li><a href="/acheiviments">Acheiviments</a></li>
-                <li><a href="/gallery">Gallery</a></li>
               </ul>
             </div>
   
             <div className="col-xs-6 col-md-3">
               <h6>Quick Links</h6>
               <ul className="footer-links">
-                <li><a href="/">NCC INDIA</a></li>
-                <li><a href="/">DG NCC</a></li>
-                <li><a href="/">DDG NCC</a></li>
-                <li><a href="/">Sambalpur Group</a></li>
-                <li><a href="/">NCC</a></li>
-                <li><a href="/">GCEK</a></li>
+                <li><a href="https://indiancc.nic.in/" target="ncc">NCC INDIA</a></li>
+                <li><a href="https://nccorissa.org/" target="odisha">NCC Odisha</a></li>
+                <li><a href="https://indiancc.nic.in/dg-ncc-lt-gen-gurbirpal-singh/" target="dg">DG NCC</a></li>
+                <li><a href="https://gcekbpatna.ac.in/" target="GCEK">GCEK</a></li>
               </ul>
             </div>
           </div>
@@ -57,7 +54,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-8 col-sm-6 col-xs-12">
               <p className="copyright-text">Copyright &copy;GCEKNAVALNCC2023 All Rights Reserved, website is designed and developed by{" "} 
-           <a href="/">Lokanath Panda</a>.
+           <a href="https://lokanath.netlify.app/" target="anotherpage">Lokanath Panda</a>.
               </p>
             </div>
   
