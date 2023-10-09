@@ -1,0 +1,28 @@
+.lokancard{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.lokancardcontainer{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    gap: 20px;
+}
+.lokanathbutton{
+    background-color: rgba(17, 31, 59, 1);;
+}
+
+
+@media only screen and (max-width: 750px) {
+    .lokancardcontainer{
+        display: flex;
+        flex-direction: column;
+    }
+   }

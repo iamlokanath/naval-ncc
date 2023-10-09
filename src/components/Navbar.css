@@ -1,0 +1,21 @@
+span {
+    color: #ffaf5a;
+    /* color: rgb(244, 196, 48); */
+  }
+  .lokanathspan1{
+    color: rgb(4, 173, 4);
+  }
+.lokanathNav{
+
+  background: rgba(17, 31, 59, 1);
+}
+
+.lokanathlogo{
+  color: aliceblue;
+  font-weight: 500;
+}
+
+.lokanathlogo:hover
+{
+  color:rgb(229, 229, 229);
+}
