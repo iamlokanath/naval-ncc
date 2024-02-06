@@ -74,7 +74,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-8 col-sm-6 col-xs-12">
               <p className="copyright-text">
-                Copyright &copy;GCEKNAVALNCC2023 All Rights Reserved, website is
+                Copyright &copy;GCEKNAVALNCC2024 All Rights Reserved, website is
                 designed and developed by{" "}
                 <a href="https://lokanath.netlify.app/" target="anotherpage">
                   Lokanath Panda
