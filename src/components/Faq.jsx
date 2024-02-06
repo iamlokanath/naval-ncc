@@ -97,7 +97,7 @@ const Faq = () => {
               </div>
             </div>
 
-            <div className="accordion-item">
+            {/* <div className="accordion-item">
               <h2 className="accordion-header" id="headingThree">
                 <button
                   className="accordion-button collapsed"
@@ -134,9 +134,9 @@ const Faq = () => {
                   and technical expertise.
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="accordion-item">
+            {/* <div className="accordion-item">
               <h2 className="accordion-header" id="headingThree">
                 <button
                   className="accordion-button collapsed"
@@ -167,7 +167,7 @@ const Faq = () => {
                   opportunities.
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
