@@ -1,25 +1,9 @@
 import React from "react";
 import "./Footer.css";
+import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <>
-      {/* <div classNameName="nccfooter">
-        <div classNameName="nccfootercontainer">
-          <div classNameName="nccfooterfirst">
-            <div classNameName="nccfooterfirstleft">
-              <div classNameName="nccfooterfirstcoloumn">Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero voluptatem eius rerum praesentium accusantium sed saepe aliquid. Architecto accusamus nemo similique, minima esse suscipit asperiores aspernatur quia laudantium, aut vitae.</div>
-              <div classNameName="nccfootersecondcoloumn">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut facilis beatae magni numquam minus nulla. Blanditiis reiciendis consequuntur eligendi itaque suscipit hic, dolorem error laboriosam accusamus voluptatibus culpa quae repellat?</div>
-              <div classNameName="nccfooterthirdcoloumn">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ipsam dolor voluptatem nulla perspiciatis sit accusamus voluptas, illum pariatur ad expedita! Consequuntur consectetur eius quas modi laudantium cumque eaque labore.</div>
-            </div>
-            <div classNameName="nccfooterfirstright">
-              <div classNameName="nccfooterfourthcoloumn">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quo modi sapiente obcaecati, iure nobis quas eos maxime sed perferendis architecto officia quod a fugit aspernatur iste recusandae voluptate mollitia.</div>
-            </div>
-          </div>
-          <div classNameName="nccfootersecond">bi</div>
-        </div>
-      </div>
-    </> */}
-
       <footer className="site-footer">
         <div className="container">
           <div className="row">
@@ -37,16 +21,20 @@ const Footer = () => {
               <h6>Categories</h6>
               <ul className="footer-links">
                 <li>
-                  <a href="/">Home</a>
+                  {/* <a href="/">Home</a> */}
+                  <Link to="/">Home</Link>
                 </li>
                 <li>
-                  <a href="/about">About Us</a>
+                  {/* <a href="/about">About Us</a> */}
+                  <Link to="/about">About Us</Link>
                 </li>
                 <li>
-                  <a href="/activities">Activities</a>
+                  {/* <a href="/activities">Activities</a> */}
+                  <Link to="/activities">Activities</Link>
                 </li>
                 <li>
-                  <a href="/acheiviments">Acheiviments</a>
+                  {/* <a href="/acheiviments">Acheiviments</a> */}
+                  <Link to="/acheiviments">Acheiviments</Link>
                 </li>
               </ul>
             </div>
