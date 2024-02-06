@@ -35,7 +35,7 @@ const Acheiviments = () => {
                   <div className="achheading">Cdt. Swastik Siddharth Rath</div>
                   <div className="achpara">
                     Cadet Swastik Siddharth Rath attended All India Nau Sainik
-                    Camp 2024
+                    Camp 2023
                   </div>
                 </div>
               </div>
@@ -46,7 +46,7 @@ const Acheiviments = () => {
                   </div>
                   <div className="achheading">Cdt. Prananti Kaudi</div>
                   <div className="achpara">
-                    Cadet Prananti Kaudi attended All India Nau Sainik Camp 2024
+                    Cadet Prananti Kaudi attended All India Nau Sainik Camp 2023
                   </div>
                 </div>
               </div>
@@ -57,7 +57,7 @@ const Acheiviments = () => {
                   </div>
                   <div className="achheading">Cdt. Manmay Panda</div>
                   <div className="achpara">
-                    Cadet Manmay Panda attended All India Nau Sainik Camp 2024
+                    Cadet Manmay Panda attended All India Nau Sainik Camp 2023
                   </div>
                 </div>
               </div>
@@ -70,7 +70,7 @@ const Acheiviments = () => {
                   <div className="achpara">
                     10 cadets with SCC Prabin, CC Akash, POC Jagadish, LC
                     Smruti, LC Lokanath from 2024 batch attended the NTAC 2023
-                    held at INS shivaji and INS Valsura.
+                    held at INS Shivaji and INS Valsura.
                   </div>
                 </div>
               </div>
@@ -82,23 +82,23 @@ const Acheiviments = () => {
               <div className="acheiviements-menu-item">
                 <div className="acheiviements-item">
                   <div className="achphoto">
-                    <img src={Prabin} alt="ashok" />
-                  </div>
-                  <div className="achheading">SCC Prabin Kumar Tripathy</div>
-                  <div className="achpara">
-                    SCC Tripathy attended All India Nau Sainik Camp 2023.
-                  </div>
-                </div>
-              </div>
-              <div className="acheiviements-menu-item">
-                <div className="acheiviements-item">
-                  <div className="achphoto">
                     <img src={Akash} alt="ashok" />
                   </div>
                   <div className="achheading">CC Akash Samantaray</div>
                   <div className="achpara">
                     Cadet Captain Akash Samantaray attended Republic Day Camp
                     2023
+                  </div>
+                </div>
+              </div>
+              <div className="acheiviements-menu-item">
+                <div className="acheiviements-item">
+                  <div className="achphoto">
+                    <img src={Prabin} alt="ashok" />
+                  </div>
+                  <div className="achheading">SCC Prabin Kumar Tripathy</div>
+                  <div className="achpara">
+                    SCC Tripathy attended All India Nau Sainik Camp 2022.
                   </div>
                 </div>
               </div>
