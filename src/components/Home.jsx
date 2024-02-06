@@ -65,7 +65,7 @@ const Home = () => {
               alt="of the third slide"
             />
             <div className="carousel-caption d-none d-md-block text-end">
-              <h5 className="home-head">NSC</h5>
+              <h5 className="home-head">AINSC</h5>
               <p>
                 one cadet and three cadets attended the Nou Saink Camp in 2022 and 2023 respectively
               </p>
